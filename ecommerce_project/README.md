@@ -1,16 +1,22 @@
-# ecommerce_project
+# E-Commerce Flutter App 🛍️
 
-A new Flutter project.
+A shopping catalog app built with Flutter that demonstrates clean architecture, state management, and API integration.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Features ✨
 
-A few resources to get you started if this is your first Flutter project:
+- **Product Catalog**: Browse products from [FakeStoreAPI](https://fakestoreapi.com)
+- **Category Filtering**: Filter products by different categories
+- **Favorites System**: Save favorite items with local persistence
+- **Modern UI**: Clean, responsive design with smooth animations
+- **State Management**: Using Provider for efficient state handling
+- **Offline Support**: Favorites persist between app sessions
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tech Stack 🛠️
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter**: 3.32.5
+- **State Management**: Provider
+- **API Client**: HTTP
+- **Local Storage**: SharedPreferences
+- **Animation**: Built-in Flutter animations
+
